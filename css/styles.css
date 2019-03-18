@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: grey;
+  width: 80%;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
+
+img:hover {
+  visibility: hidden;
+  background-color: red;
+}
